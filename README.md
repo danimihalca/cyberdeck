@@ -75,9 +75,9 @@ Contains:
 - display integration
 - keyboard integration
 - auto wifi connection with mDNS and SSH server
+- OTA update via RAUC
     
 To do:
-- [ ] update support (RAUC?)
 - [ ] Improve wiring
 - [ ] Integrate battery (BL-5C, 18650?)
 - [ ] 3d printed case
